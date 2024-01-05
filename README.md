@@ -16,6 +16,8 @@ These plugins have been tested in pwnagotchi v1.5.5
 - [xp](#xp)
 - [xp_grid](#xp_grid)
 
+![demo](/pwnagotchi1.jpg)
+
 ## darkmode
 
 Plugin to enable/disable darkmode by modifying `pwnagotchi.ui.view` constants and update current ui elements.
